@@ -2,8 +2,8 @@
     "version": "1.0.0",
     "summary": "Sound functionality in Elm",
     "description": "This library uses HTML5 Audio to enable sound in Elm",
-    "license": "",
-    "repository": "",
+    "license": "BSD3",
+    "repository": "https://github.com/tcremissong/cs223-testing.git",
     "exposed-modules": ["Audio"],
     "native-modules": true,
     "source-directories": [
