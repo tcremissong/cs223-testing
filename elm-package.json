@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "summary": "Sound functionality in Elm",
+    "description": "This library uses HTML5 Audio to enable sound in Elm",
+    "license": "",
+    "repository": "",
+    "exposed-modules": ["Audio"],
+    "native-modules": true,
+    "source-directories": [
+        "."
+    ],
+    "dependencies": {}
+}
